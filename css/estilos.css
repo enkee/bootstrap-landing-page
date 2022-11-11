@@ -1,0 +1,17 @@
+.navbar-nav .nav-item .nav-link{
+    color: azure;
+}
+
+.navbar-toggler-icon{
+    color: azure;
+}
+
+header{
+    background: url("../img/fondo.jpg");
+    background-size: cover;
+    min-height: 400px;
+}
+
+.fondo{
+    background: rgba(118, 14, 166, 0.745);
+}
